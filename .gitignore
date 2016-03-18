@@ -1,0 +1,6 @@
+# Elementos ignorados
+.idea/
+*.last-run
+*.*-ca-bundle
+*.log
+*.cache

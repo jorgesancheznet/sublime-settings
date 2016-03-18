@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
+	"font_face": "Anonymous Pro",
+	"font_size": 22,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "itg.flat.dark.sublime-theme"
+}
